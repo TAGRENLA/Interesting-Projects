@@ -1,0 +1,5 @@
+1. 管理员身份运行 Windows PowerShell
+2. 输入引号中的内容“irm https://get.activated.win | iex”并回车
+3. 弹出的窗口中选择2 再输入1 并回车  就激活成功了！
+
+脚本来源：https://github.com/massgravel/Microsoft-Activation-Scripts
