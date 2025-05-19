@@ -37,6 +37,10 @@ Share various interesting python projects
 10. 移动端 伪装GPS【附安装包】
     > [正版下载地址及其使用文档](https://github.com/TAGRENLA/Interesting-Projects/blob/main/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%BD%AF%E4%BB%B6/%E4%BC%AA%E8%A3%85GPS%E3%80%90%E9%99%84%E5%AE%89%E8%A3%85%E5%8C%85%E3%80%91.md)
 
+11. MoneyPrinterTurbo
+    > 利用AI大模型，一键生成高清短视频
+https://github.com/harry0703/MoneyPrinterTurbo
+
 
 ---
 
