@@ -22,5 +22,8 @@ Lexa的Fake GPS
 
 附件：[Fake GPS Location 安装包  密码:g0vw](https://ghqr.lanzn.com/istdI2tz9jid)  
 
+原文地址：
+1. `379*​**​**931@qq.com` 中的星标邮件    
+2. `316*​**​**976@qq.com` 中搜索 “Change the GPS mode of your phone” 即可查询到邮件
 
 
